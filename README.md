@@ -2,8 +2,10 @@
 Full Stack Web App built using MEAN Stack
 
 Install dependencies with 'npm install'.
-To start front-end Angular dev server run 'ng serve'.
-To start back-end NodeJS dev server run 'npm run start:server' to start nodemon.
+
+To start front-end Angular dev server run 'ng serve'. Navigate to 'http://localhost:4200/'.
+
+To start back-end NodeJS dev server run 'npm run start:server' to start nodemon. Navigate to 'http://localhost:3000/'.
 
 Features:
 Clean and responsive UI using Angular Framework and related modules.
